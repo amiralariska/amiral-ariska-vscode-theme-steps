@@ -19,3 +19,13 @@
 
 ### Update VSCODE Theme Extension
 - VSCODE Theme Extension Updates: Add Gallery Banner Background Color
+
+## 0.0.3
+### Update README
+- README Updates: Update VSCODE Theme Demo
+- README Updates: Add Keyboard Shortcuts Tips
+- README Updates: Add Settings Tips
+- README Updates: Add Other Keyboard Shortcuts Tips Link
+
+### Update VSCODE Theme
+- VSCODE Theme Updates: Update VSCODE Theme
