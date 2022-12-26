@@ -12,3 +12,10 @@
 - New Light Theme Released
 - New Light Theme (Muted) Released
 - New Dark Theme (Muted) Released
+
+## 0.0.2
+### Update VSCODE Theme
+- VSCODE Theme Updates: Update HTML, CSS, PHP And SVG Syntax
+
+### Update VSCODE Theme Extension
+- VSCODE Theme Extension Updates: Add Gallery Banner Background Color
