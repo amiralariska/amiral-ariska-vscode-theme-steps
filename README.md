@@ -5,7 +5,12 @@
     <h1 align="center">Amiral Ariska Theme</h1>
 </p>
 
-[![Amiral Ariska Theme Demo](https://xp.io/storage/zB3rYf4.gif)](https://xp.io/storage/zB3rYf4.gif)
+## Amiral Ariska Theme Demo
+[![Amiral Ariska Theme Demo](https://xp.io/storage/13fyTcBh.gif)](https://xp.io/storage/13fyTcBh.gif)
+## Amiral Ariska Theme Blue Demo
+[![Amiral Ariska Theme Blue Demo](https://xp.io/storage/13g4zDln.gif)](https://xp.io/storage/13g4zDln.gif)
+## Amiral Ariska Theme Blue Cyan Demo
+[![Amiral Ariska Theme Blue Cyan Demo](https://xp.io/storage/13ghS6gs.gif)](https://xp.io/storage/13ghS6gs.gif)
 # Amiral Ariska Theme For VSCODE
 ## Font
 ### Font 1
@@ -18,7 +23,7 @@ and this font name is "Fira Mono"
 [![Fira Mono - VSCODE Font Family](https://xp.io/storage/zB8NBGM.jpg)](https://fonts.google.com/specimen/Fira+Mono?query=Fira+Mono)
 click here👇<br>
 [Download Font Here](https://fonts.google.com/download?family=Fira%20Mono)<br>
-this font is free for programmer
+this font is free for programming
 
 ## Installation
 ### How To Install Color Theme Extension
