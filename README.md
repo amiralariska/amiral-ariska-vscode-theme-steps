@@ -1,10 +1,3 @@
-<p align="center">
-    <a href="https://xp.io/storage/zB679Ll.png">
-        <img src="https://xp.io/storage/zB679Ll.png" alt="Amiral Ariska Logo">
-    </a>
-    <h1 align="center">Amiral Ariska Theme</h1>
-</p>
-
 ## Amiral Ariska Theme Demo
 [![Amiral Ariska Theme Demo](https://xp.io/storage/13fyTcBh.gif)](https://github.com/amiralariska/amiral-ariska-theme/blob/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-demo.gif?raw=true)
 ## Amiral Ariska Theme Blue Demo
