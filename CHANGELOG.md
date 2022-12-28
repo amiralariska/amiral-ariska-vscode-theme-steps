@@ -50,3 +50,7 @@
 #### New Blue And Cyan Theme
 - Add New Amiral Ariska Dark Theme (Blue Cyan)
 - Add New Amiral Ariska Light Theme (Blue Cyan)
+
+## 0.0.5
+### Update README
+- README Updates: Update README.md file
