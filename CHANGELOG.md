@@ -54,3 +54,7 @@
 ## 0.0.5
 ### Update README
 - README Updates: Update README.md file
+
+## 0.0.6
+### Update VSCODE Theme
+- VSCODE Theme Updates: Update Amiral Ariska Theme(Blue)
