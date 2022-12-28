@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://xp.io/storage/zB679Ll.png">
-        <img src="https://xp.io/storage/zB679Ll.png" alt="Amiral Ariska Logo">
+    <a href="https://xp.io/storage/bueSfh0.png">
+        <img src="https://xp.io/storage/bueSfh0.png" alt="Amiral Ariska Logo">
     </a>
     <h1 align="center">Amiral Ariska Theme Version For VSCODE</h1>
     <p align="center">The History Version Of Amiral Ariska Theme</p>
@@ -81,3 +81,15 @@
 ### Update VSCODE Theme Preview And GIF
 - VSCODE Theme Preview And GIF Updates: Update VSCODE Theme Preview
 - VSCODE Theme Preview And GIF Updates: Update GIF
+
+## 0.0.8
+### Update README
+- README Updates: Update README.md file
+
+### Update VSCODE Theme
+- VSCODE Theme Updates: Update All Amiral Ariska Theme
+- VSCODE Theme Updates: Update Syntax
+- VSCODE Theme Updates: Create new "amiral-ariska-theme-cyan" folder, move 4 file theme and Rename all file theme
+
+### Test vscodeignore
+- Ignore Text File
