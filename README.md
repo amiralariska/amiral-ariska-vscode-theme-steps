@@ -1,9 +1,9 @@
 ## Amiral Ariska Theme Demo
-[![Amiral Ariska Theme Demo](https://xp.io/storage/13ghS6gs.gif)](https://github.com/amiralariska/amiral-ariska-theme/blob/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif?raw=true)
+[![Amiral Ariska Theme Demo](https://xp.io/storage/13ghS6gs.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)
 ## Amiral Ariska Theme Blue Demo
-[![Amiral Ariska Theme Blue Demo](https://xp.io/storage/1m79BjfX.gif)](https://github.com/amiralariska/amiral-ariska-theme/blob/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif?raw=true)
+[![Amiral Ariska Theme Blue Demo](https://xp.io/storage/1m79BjfX.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)
 ## Amiral Ariska Theme Cyan Demo
-[![Amiral Ariska Cyan Theme Demo](https://xp.io/storage/13fyTcBh.gif)](https://github.com/amiralariska/amiral-ariska-theme/blob/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-demo.gif?raw=true)
+[![Amiral Ariska Cyan Theme Demo](https://xp.io/storage/13fyTcBh.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-demo.gif)
 # Amiral Ariska Theme For VSCODE
 ## Font
 ### Font 1
@@ -41,9 +41,9 @@ this font is free for programming
 ## Settings
 ### How to Disable Bracket Pair Colorization in settings
 1. To Open VSCODE Settings JSON File Press `Ctrl+Alt+,` To Open VSCODE Settings JSON File
-[![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://xp.io/storage/GEPGwfg.gif)](https://xp.io/storage/GEPGwfg.gif)
+[![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://xp.io/storage/EzOJI4y.gif)](https://xp.io/storage/EzOJI4y.gif)
 2. To Disable Bracket Pair Colorization in VSCODE Settings JSON Copy this settings down below and save the file
-[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/GEUtdyt.gif)](https://xp.io/storage/GEUtdyt.gif)
+[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/EzUsvYT.gif)](https://xp.io/storage/EzUsvYT.gif)
 ```jsonc
 {
     "editor.bracketPairColorization.enabled": false,
