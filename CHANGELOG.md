@@ -105,3 +105,10 @@
 ## 0.1.1
 ### README Updates
 - Update links
+
+## 0.1.2
+### README Updates
+- README Updates: Update VSCODE Theme Demo
+- README Updates: Update VSCODE Font Family Preview
+- README Updates: Update Settings Tips
+- README Updates: Update Keyboard Shortcuts Tips
