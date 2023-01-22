@@ -126,3 +126,7 @@
 ## 0.1.4
 ### Update VSCODE Theme
 - VSCODE Theme Updates: Update Amiral Ariska Light Theme
+
+## 0.1.5
+### Update VSCODE Theme
+- VSCODE Theme Updates: Update VSCODE Theme
