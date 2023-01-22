@@ -112,3 +112,13 @@
 - README Updates: Update VSCODE Font Family Preview
 - README Updates: Update Settings Tips
 - README Updates: Update Keyboard Shortcuts Tips
+
+## 0.1.3
+### VSCODE Compatibility
+- Change vscode compatibility
+
+### Update VSCODE Theme
+- VSCODE Theme Updates: Update VSCODE Theme
+
+### LICENSE
+- Add LICENSE
