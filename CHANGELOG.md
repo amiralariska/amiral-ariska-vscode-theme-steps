@@ -67,7 +67,11 @@
 ### Note
 - Note: New VSCODE Theme Updates
 
-### Before And After
+<details>
+    <summary>
+        <h3 style="display: inline-block">Before And After</h3>
+    </summary>
+
 #### Before And After Preview
 ![Before And After Amiral Ariska Dark Theme(Cyan)](https://xp.io/storage/1mlGhP52.jpg)
 - A at-rule curly brackets color on Amiral Ariska Dark Theme(Cyan) now has been changed to cyan
@@ -77,6 +81,7 @@
 
 ![Before And After Amiral Ariska Dark Theme(Blue)](https://xp.io/storage/1mkyyhgd.jpg)
 - A at-rule curly brackets color on Amiral Ariska Dark Theme(Blue) now has been changed to blue
+</details>
 
 ### Update VSCODE Theme Preview And GIF
 - VSCODE Theme Preview And GIF Updates: Update VSCODE Theme Preview
@@ -130,3 +135,8 @@
 ## 0.1.5
 ### Update VSCODE Theme
 - VSCODE Theme Updates: Update VSCODE Theme
+
+## 0.1.6
+### Update VSCODE Theme
+- VSCODE Theme Updates: Update Amiral Ariska Light Theme(Cyan)
+- VSCODE Theme Updates: Update Amiral Ariska Light Theme(Cyan Muted)
