@@ -1,3 +1,8 @@
+## New V2 Theme Preview
+> 💡 New V2 Theme is Coming to Experimental Theme Features
+
+[![Amiral Ariska V2 Theme Preview](https://xp.io/storage/24Rpr929.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-v2-themes/amiral-ariska-v2-themes.jpg)
+Try out the new amiral ariska v2 theme for a nice look.
 ## Amiral Ariska Theme Demo
 [![Amiral Ariska Theme Demo](https://xp.io/storage/13ghS6gs.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)
 ## Amiral Ariska Theme Blue Demo
