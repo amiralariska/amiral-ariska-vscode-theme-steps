@@ -140,3 +140,30 @@
 ### Update VSCODE Theme
 - VSCODE Theme Updates: Update Amiral Ariska Light Theme(Cyan)
 - VSCODE Theme Updates: Update Amiral Ariska Light Theme(Cyan Muted)
+
+## 0.1.7
+### Update README
+- Update README.md File
+
+### Update Github Repo
+- Change Amiral Ariska Theme Release Repo to Amiral Ariska Theme Steps Repo
+
+### Update Images And GIF
+- Update VSCODE Theme Preview And GIF
+
+### Update And Add New VSCODE Theme
+### New V2 Theme Preview
+[![Amiral Ariska V2 Theme Preview](https://xp.io/storage/24Rpr929.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-v2-themes/amiral-ariska-v2-themes.jpg)
+#### New V2 Theme
+- VSCODE Theme Added: Add Amiral Ariska Dark Theme V2
+- VSCODE Theme Added: Add Amiral Ariska Light Theme V2
+#### Update VSCODE Theme
+- VSCODE Theme Updates: Update Amiral Ariska Dark Theme
+- VSCODE Theme Updates: Update Amiral Ariska Light Theme
+- VSCODE Theme Updates: Update Amiral Ariska Light Theme(Cyan)
+- VSCODE Theme Updates: Update Amiral Ariska Light Theme(Cyan Muted)
+- VSCODE Theme Updates: Update Amiral Ariska Light Theme(Blue)
+- VSCODE Theme Updates: Update Amiral Ariska Light Theme(Blue Muted)
+
+### Update File
+- Update package.json file
