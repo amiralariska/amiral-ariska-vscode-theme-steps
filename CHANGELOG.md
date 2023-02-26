@@ -167,3 +167,7 @@
 
 ### Update File
 - Update package.json file
+
+## 0.1.8
+### VSCODE Ignore File
+- Ignore amiral-ariska-theme-release-date.md
