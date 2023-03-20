@@ -171,3 +171,8 @@
 ## 0.1.8
 ### VSCODE Ignore File
 - Ignore amiral-ariska-theme-release-date.md
+
+## 0.1.9
+### Update VSCODE Theme
+- VSCODE Theme Updates: Update Status Bar No Folder Color
+- VSCODE Theme Updates: New Profile Badge And Other Badge
