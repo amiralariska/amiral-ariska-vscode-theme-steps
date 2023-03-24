@@ -5,6 +5,8 @@
 Try out the new amiral ariska v2 theme for a nice look.
 ## Amiral Ariska Theme Demo
 [![Amiral Ariska Theme Demo](https://xp.io/storage/13ghS6gs.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)
+## Amiral Ariska Theme V2 Demo
+[![Amiral Ariska V2 Theme Demo](https://xp.io/storage/1I7P9J0j.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-v2/amiral-ariska-theme-v2-demo.gif)
 ## Amiral Ariska Theme Blue Demo
 [![Amiral Ariska Theme Blue Demo](https://xp.io/storage/1m79BjfX.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)
 ## Amiral Ariska Theme Cyan Demo
