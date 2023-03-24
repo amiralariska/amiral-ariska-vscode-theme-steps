@@ -176,3 +176,22 @@
 ### Update VSCODE Theme
 - VSCODE Theme Updates: Update Status Bar No Folder Color
 - VSCODE Theme Updates: New Profile Badge And Other Badge
+
+## 0.2.0
+### Update VSCODE Theme
+- Update Markdown Syntax
+#### Add Editor Gutter
+- Add Editor Gutter: Add Editor Added Gutter
+- Add Editor Gutter: Add Editor Deleted Gutter
+- Add Editor Gutter: Add Editor Modified Gutter
+- Add Editor Gutter: Add Editor Comment Range Gutter
+- Add Editor Gutter: Add Editor Comment Glyph Gutter
+#### Add Git Decoration
+- Add Git Decoration: Add Git Untracked Decoration
+- Add Git Decoration: Add Git Added Decoration
+- Add Git Decoration: Add Git Deleted Decoration
+- Add Git Decoration: Add Git Renamed Decoration
+- Add Git Decoration: Add Git Modified Decoration
+- Add Git Decoration: Add Git Ignored Decoration
+- Add Git Decoration: Add Git Submodule Decoration
+- Add Git Decoration: Add Git Merge Conflict Decoration
