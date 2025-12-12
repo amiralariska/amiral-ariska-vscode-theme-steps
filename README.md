@@ -13,7 +13,7 @@ Try out the new amiral ariska classic theme for a nice look.
 [![Amiral Ariska Theme Blue Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)
 ## Amiral Ariska Theme Cyan Demo
 [![Amiral Ariska Cyan Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-cyan-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-cyan-demo.gif)
-# Amiral Ariska Theme For VSCODE
+# Amiral Ariska Theme Steps For VSCODE
 ## Font
 ### Font 1
 this font is called "Droid Sans Mono"
@@ -60,5 +60,6 @@ this font is free for programming
 [![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-bracket-pair-colorization-settings-tutorial/vscode-bracket-pair-colorization-settings-tutorial-2.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-bracket-pair-colorization-settings-tutorial/vscode-bracket-pair-colorization-settings-tutorial-2.gif)
 3. and now Bracket Pair Colorization is disabled
 > Note: If you want to follow vscode settings just follow this tutorial ☝
+[Amiral Ariska VSCODE Theme](https://github.com/amiralariska/amiral-ariska-vscode-theme)
 
-**Thank You For Using This Color Theme**
+**Thank You For Following This Tutorial**
