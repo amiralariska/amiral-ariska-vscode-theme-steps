@@ -60,6 +60,9 @@ this font is free for programming
 [![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-bracket-pair-colorization-settings-tutorial/vscode-bracket-pair-colorization-settings-tutorial-2.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-bracket-pair-colorization-settings-tutorial/vscode-bracket-pair-colorization-settings-tutorial-2.gif)
 3. and now Bracket Pair Colorization is disabled
 > Note: If you want to follow vscode settings just follow this tutorial ☝
+## About Amiral Ariska Theme
+For more information About Amiral Ariska Theme<br>
+Click link down below<br>
 [Amiral Ariska VSCODE Theme](https://github.com/amiralariska/amiral-ariska-vscode-theme)
 
 **Thank You For Following This Tutorial**
